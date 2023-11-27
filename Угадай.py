@@ -55,9 +55,11 @@ while number != zagadal:
             logging.error(" Error. Invalid 'number'", exc_info=True)
     
     if number > zagadal:
-        print("Загаданное число больше.")
-    elif number < zagadal:
         print("Загаданное число меньше.")
+        logging.info(" Vvedennoye cislo > zagadannogo")
+    elif number < zagadal:
+        print("Загаданное число больше.")
+        logging.info(" Vvedennoye cislo < zagadannogo")
     
     k -= 1
     popitki += 1
