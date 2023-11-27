@@ -14,5 +14,6 @@ TEST1
 ![screenshot1](https://github.com/andreich1rkov/lab10/blob/main/tes1.JPG)
  
 
+
 TEST2
 ![screenshot1](https://github.com/andreich1rkov/lab10/blob/main/tes2.JPG)
