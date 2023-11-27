@@ -12,7 +12,7 @@ while True:
         break
     except ValueError:
         print("Ошибка. Введите целое положительное число > 1")
-        logging.error(" Error. Invalid 'N'")
+        logging.error(" Error. Invalid 'N'", exc_info=True)
 logging.info(f" Verhnyaya granica dlya zagadannogo cisla = {N}")
 
 while True:
@@ -23,7 +23,7 @@ while True:
         break
     except ValueError:
         print("Ошибка. Введите целое положительное число > 0")
-        logging.error(" Error. Invalid 'k'")
+        logging.error(" Error. Invalid 'k'", exc_info=True)
 logging.info(f" Attepts given = {k}")
 
 
