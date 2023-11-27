@@ -1,0 +1,9 @@
+2023-11-27 15:11:36,475 INFO  Verhnyaya granica dlya zagadannogo cisla = 10
+2023-11-27 15:11:37,346 INFO  Attepts given = 5
+2023-11-27 15:11:37,346 INFO  Zagadannoe number = 4
+2023-11-27 15:11:37,346 INFO  Attempts left: 5
+2023-11-27 15:11:39,584 INFO  Vvedeno number: 5
+2023-11-27 15:11:39,585 INFO  Vvedennoye cislo > zagadannogo
+2023-11-27 15:11:39,585 INFO  Attempts left: 4
+2023-11-27 15:11:42,374 INFO  Vvedeno number: 4
+2023-11-27 15:11:42,375 INFO  Number guessed! Attempts: 2
