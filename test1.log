@@ -1,0 +1,27 @@
+2023-11-27 15:08:43,092 ERROR  Error. Invalid 'N'
+Traceback (most recent call last):
+  File "c:\Users\ddddr\Desktop\����\github\lab10\������.py", line 11, in <module>
+    raise ValueError
+ValueError
+2023-11-27 15:08:44,342 ERROR  Error. Invalid 'N'
+Traceback (most recent call last):
+  File "c:\Users\ddddr\Desktop\����\github\lab10\������.py", line 9, in <module>
+    N = int(input("������� ������� ��� ����������� �����: "))
+ValueError: invalid literal for int() with base 10: 'tyh'
+2023-11-27 15:08:45,683 INFO  Verhnyaya granica dlya zagadannogo cisla = 7
+2023-11-27 15:08:46,873 INFO  Attepts given = 3
+2023-11-27 15:08:46,873 INFO  Zagadannoe number = 3
+2023-11-27 15:08:46,874 INFO  Attempts left: 3
+2023-11-27 15:08:48,723 ERROR  Error. Invalid 'number'
+Traceback (most recent call last):
+  File "c:\Users\ddddr\Desktop\����\github\lab10\������.py", line 47, in <module>
+    number = int(input("�����: "))
+ValueError: invalid literal for int() with base 10: 'oritg'
+2023-11-27 15:08:50,693 INFO  Vvedeno number: 5
+2023-11-27 15:08:50,693 INFO  Vvedennoye cislo > zagadannogo
+2023-11-27 15:08:50,693 INFO  Attempts left: 2
+2023-11-27 15:08:52,711 INFO  Vvedeno number: 4
+2023-11-27 15:08:52,712 INFO  Vvedennoye cislo > zagadannogo
+2023-11-27 15:08:52,712 INFO  Attempts left: 1
+2023-11-27 15:08:54,882 INFO  Vvedeno number: 3
+2023-11-27 15:08:54,882 INFO  Number guessed! Attempts: 3
