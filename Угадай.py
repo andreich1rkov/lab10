@@ -54,6 +54,11 @@ while number != zagadal:
             print("Ошибка. Введите целое число >1")
             logging.error(" Error. Invalid 'number'", exc_info=True)
     
+    if number > zagadal:
+        print("Загаданное число больше.")
+    elif number < zagadal:
+        print("Загаданное число меньше.")
+    
     k -= 1
     popitki += 1
 else:
