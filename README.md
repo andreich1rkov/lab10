@@ -10,5 +10,9 @@
 
 **Скриншоты тестов с обработкой ошибок:**
 
-![screenshot1](https://github.com/andreich1rkov/lab6/blob/main/tes1.JPG)
+TEST1
+![screenshot1](https://github.com/andreich1rkov/lab10/blob/main/tes1.JPG)
  
+
+TEST2
+![screenshot1](https://github.com/andreich1rkov/lab10/blob/main/tes2.JPG)
